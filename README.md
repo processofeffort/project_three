@@ -13,7 +13,7 @@ node app.js
 npm run dev
 
 首页
-![首页](https://github.com/processofeffort/project_three/blob/master/index.png)
+![首页](https://github.com/processofeffort/project_three/blob/master/index.jpg)
 
 登陆
 ![登陆](https://github.com/processofeffort/project_three/blob/master/login.png)
@@ -28,3 +28,5 @@ npm run dev
 
 
 说明：这是刚开始学vue的时候所做的，有些构建思想不是很好，看看就行。
+新闻采取的静态json数据，与服务器存在跨域问题，觉得网上的教程解决的挺简单，但怎么自己都没弄出来，访问json数据直接硬写了。
+评论则是与MongoDB创建连接。
